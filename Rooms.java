@@ -49,6 +49,7 @@ class Rooms {
         room[2][2].setNumber(7);
         room[2][2].setName("Chapel");
         room[2][2].setDescription("You are in the chapel.");
+        room[2][2].setItems("time traveller");
         
         room[2][1].setNumber(8);
         room[2][1].setName("Hall");
@@ -58,6 +59,7 @@ class Rooms {
         room[2][0].setNumber(9);
         room[2][0].setName("Room 1");
         room[2][0].setDescription("You are in room 1.");
+        room[2][0].setItems("beamer");
     }
 
     public static void print(Room[][] room, int x, int y) {

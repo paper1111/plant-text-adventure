@@ -14,9 +14,4 @@ public class Commands {
         GO,
         DEFUSE,
     }
-    
-    public static void commandRun(){
-    	
-    }
-
 }
