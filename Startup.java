@@ -37,7 +37,7 @@ public class Startup {
     	int hunger = 30;
     	boolean playing = true;
     	while(playing){
-    		for(int i = 0; i < 15; i++) {
+    		for(int i = 0; i < 30; i++) {
     			// Get user input
     			String input = Input.getInput();
     			System.out.println(input);
