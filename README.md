@@ -1,4 +1,5 @@
-# plant-text-adventure
-A text based adventure game.
+ # Plant text adventure
+Plant text adventure is a text based adventure game made in Java.
 
-Everybody can contribute!
+ ## License
+Plant text adventure is licensed under the Apache License 2.0
